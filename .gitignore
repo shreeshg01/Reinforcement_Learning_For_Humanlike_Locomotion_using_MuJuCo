@@ -1,0 +1,23 @@
+# Virtual environment
+.CMC_Project/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Secrets
+.env
+
+# Generated outputs
+logs/
+videos/
+models/
+*.npz
+*.pkl
+*.zip
