@@ -1,7 +1,7 @@
-# 🦾 Reinforcement Learning for Human-Like Locomotion Using MuJoCo
+# Reinforcement Learning for Human-Like Locomotion Using MuJoCo
 
 > **Course:** Computational Motor Control
-> **Team:** [Your Name] & [Partner's Name]
+> **Team:** Shreesh Gurjar & Ajay Gaur
 
 ---
 
